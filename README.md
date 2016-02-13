@@ -4,7 +4,7 @@
 
 * Summary: Manage Multiple Worlds
 * Dependency Plugins: n/a
-* PocketMine-MP version: 1.4 (API:1.10.0)
+* PocketMine-MP version: 1.6 (API:1.13.0)
 * OptionalPlugins: n/a
 * Categories: Admin Tools, Teleportation
 * Plugin Access: Commands, Manages Worlds
