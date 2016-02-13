@@ -1,5 +1,7 @@
 main: aliuly\manyworlds\Main
-api: 2.0.0
+api:
+2.0.0
+1.13.0
 load: POSTWORLD
 
 name: ManyWorlds
